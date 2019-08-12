@@ -1,0 +1,20 @@
+.section-box{
+	height: 475px;
+	z-index: 1;
+	position: absolute;
+	background: url(../img/lwelwlel.png) no-repeat;
+}
+.section-box-disembark{
+	width: 347px;
+	height: 362px;
+	background: #FFFFFF;
+	position: relative;
+	/*right: 120px;
+	top: 20px;*/
+}
+.disembark{
+	padding: 20px;
+}
+.disembark-tishi{
+	justify-content: space-between;
+}
